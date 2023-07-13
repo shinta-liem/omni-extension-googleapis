@@ -1,8 +1,8 @@
-title: Hello World
+title: Google API Importer
 version: 0.0.1
-description: Hello world extension
+description: Google API importer
 author: Shinta Liem
-origin: https://github.com/shinta-liem/omni-extension-template.git
+origin: https://github.com/shinta-liem/omni-extension-googleapis.git
 client:
   addToWorkbench: true
   hideBackButton: true
